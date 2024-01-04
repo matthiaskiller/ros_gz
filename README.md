@@ -99,7 +99,7 @@ The following steps are for Linux and OSX.
     cd ~/ws/src
 
     # Download needed software
-    git clone https://github.com/gazebosim/ros_gz.git -b humble
+    git clone https://github.com/matthiaskiller/ros_gz.git -b humble
     ```
 
 1. Install dependencies (this may also install Gazebo):
