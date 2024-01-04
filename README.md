@@ -115,7 +115,7 @@ The following steps are for Linux and OSX.
 
     ```
     # Source ROS distro's setup.bash
-    source /opt/ros/<distro>/setup.bash
+    source /opt/ros/humble/setup.bash
 
     # Build and install into workspace
     cd ~/ws
